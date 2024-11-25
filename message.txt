@@ -1,2 +1,1 @@
-git is awesom
-git is awesom Mon Nov 25 10:16:30 CET 2024
+git is awesome
